@@ -1,2 +1,2 @@
-# work_resume
-my work resume
+# WORK RESUME
+NAME  Kazuhide Nakamura
